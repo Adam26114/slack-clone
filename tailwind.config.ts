@@ -19,8 +19,7 @@ const config = {
     },
     extend: {
       fontFamily: {
-        helix: ['Hellix-Regular', 'sans-serif'],
-        'helix-bold': ['Hellix-Bold', 'sans-serif'],
+        helix: ['Hellix-Medium', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
